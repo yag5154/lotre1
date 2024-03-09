@@ -11,4 +11,4 @@ User-agent: Googlebot-Image
 Allow: /
 User-agent: Googlebot-Mobile
 Allow: /
-Sitemap: https://philguo.com/sitemap.xml
+Sitemap: http://philguo.com/sitemap.xml
